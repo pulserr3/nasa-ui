@@ -1,4 +1,0 @@
-repository "Red Frontier/Red Frontier@7971763556730@cloud"
-  path "/"
-    br "/main"
-    co "/main"

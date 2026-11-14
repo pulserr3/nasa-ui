@@ -36,3 +36,6 @@ crashlytics-build.properties
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Plastic SCM workspace state
+.plastic/
