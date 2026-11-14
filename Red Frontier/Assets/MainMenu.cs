@@ -7,7 +7,7 @@ using static FrontierUi;
 
 public sealed class MainMenu : MonoBehaviour
 {
-    private const string MissionScene = "SampleScene";
+    private const string MissionScene = "MarsOutpost";
     private const float OrbitSeconds = 18, Tilt = 12 * Mathf.Deg2Rad, Flatten = .18f;
     // Visible bounds of the approved art, as fractions of each texture.
     private const float LogoLeft = .097f, LogoRight = .905f, LogoTop = .034f, LogoBottom = .949f;
